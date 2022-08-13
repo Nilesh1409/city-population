@@ -1,0 +1,118 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "United States"
+    },
+    {
+      "id": 2,
+      "name": "Canada"
+    },
+    {
+      "id": 3,
+      "name": "Mexico"
+    },
+    {
+      "id": 4,
+      "name": "United Kingdom"
+    },
+    {
+      "id": 5,
+      "name": "France"
+    },
+    {
+      "id": 6,
+      "name": "Germany"
+    },
+    {
+      "id": 7,
+      "name": "Spain"
+    },
+    {
+      "id": 8,
+      "name": "Italy"
+    },
+    {
+      "id": 9,
+      "name": "Australia"
+    },
+    {
+      "name": "Nepal",
+      "id": 10
+    },
+    {
+      "name": "Nepal",
+      "id": 11
+    },
+    {
+      "name": "Hong-Cong",
+      "id": 12
+    },
+    {
+      "name": "Bangladesh",
+      "id": 13
+    }
+  ],
+  "cities": [
+    {
+      "id": 1,
+      "city": "New York",
+      "country": "United States",
+      "population": 8175947
+    },
+    {
+      "id": 2,
+      "city": "Los Angeles",
+      "country": "United States",
+      "population": 3971946
+    },
+    {
+      "id": 3,
+      "city": "Delhi",
+      "country": "India",
+      "population": 1380000
+    },
+    {
+      "id": 4,
+      "city": "London",
+      "country": "United Kingdom",
+      "population": 8988946
+    },
+    {
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "population": 45163563,
+      "id": 5
+    },
+    {
+      "city": "Toranto",
+      "country": "Canada",
+      "population": 14562353,
+      "id": 6
+    },
+    {
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "population": 45163563,
+      "id": 7
+    },
+    {
+      "city": "Delhi",
+      "country": "Spain",
+      "population": 1380000,
+      "id": 8
+    },
+    {
+      "city": "Delhi",
+      "country": "India",
+      "population": 1380000,
+      "id": 9
+    },
+    {
+      "city": "Delhi",
+      "country": "United States",
+      "population": 1380000,
+      "id": 11
+    }
+  ]
+}
